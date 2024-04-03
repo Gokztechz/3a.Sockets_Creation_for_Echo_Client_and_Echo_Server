@@ -29,7 +29,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
             conn.sendall(data)
 ```
 ### CLIENT:
-```
+```python
 import socket
 
 HOST = '127.0.0.1'  
@@ -45,10 +45,13 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ```
 
 ## OUTPUT
+### SERVER:
 ![image](https://github.com/Gokztechz/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/117667038/0a77ecb8-33eb-4022-ad43-f46c1b1db809)
 
+#### CLIENT:
+![image](https://github.com/Gokztechz/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/117667038/a9a118eb-0ef5-4429-9baa-410bdcdc7e15)
+
 ## RESULT
-![image](https://github.com/Gokztechz/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/117667038/8b041d95-6345-4714-8e31-32d3b9870939)
 
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
 was successfully created and executed.
