@@ -48,7 +48,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ### SERVER:
 ![image](https://github.com/Gokztechz/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/117667038/0a77ecb8-33eb-4022-ad43-f46c1b1db809)
 
-#### CLIENT:
+### CLIENT:
 ![image](https://github.com/Gokztechz/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/117667038/a9a118eb-0ef5-4429-9baa-410bdcdc7e15)
 
 ## RESULT
